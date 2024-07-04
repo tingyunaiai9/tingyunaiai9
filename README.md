@@ -1,6 +1,6 @@
 # About me 👋
 
-💬 I’m currently learning software engineering.
+💬 I’m currently majoring in software engineering.
 
 <!--
 **tingyunaiai9/tingyunaiai9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
