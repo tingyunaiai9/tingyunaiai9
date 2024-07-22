@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
 <!-- github - stats -->
-![tingyunaiai9's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyunaiai9&count_private=true)
+![tingyunaiai9's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyunaiai9&count_private=true&show_icons=true)
