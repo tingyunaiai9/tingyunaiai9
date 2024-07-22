@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- snake -->
 ![snake](https://raw.githubusercontent.com/tingyunaiai9/tingyunaiai9/output/github-contribution-grid-snake.svg)
+
+
+<!-- github - stats -->
+![tingyunaiai9's GitHub stats](https://github-readme-stats.vercel.app/api?username=tingyunaiai9&count_private=true)
